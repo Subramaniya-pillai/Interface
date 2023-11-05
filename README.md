@@ -18,10 +18,11 @@ Step 4: Use if-else conditional statement to get the choice from the user whethe
 Step 5: After performing the functions display the remaining balance of the user.
 
 ## Program:
-```
-Developed by : Saravana Kumar S
-Register no : 212221230088
-````
+
+> Developed by : Subramaniya Pillai B
+
+> Register no : 212221230109
+
 ```c#
 using System;
 public interface Bank
@@ -72,7 +73,6 @@ class program1
     }
 }
 ```
-
 
 ## Output:
 ### Deposit:
